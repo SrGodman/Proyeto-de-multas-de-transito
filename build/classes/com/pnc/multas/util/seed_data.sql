@@ -1,0 +1,11 @@
+INSERT INTO departamentos (id, nombre) VALUES (1, 'Zacapa');
+INSERT INTO municipios (id, id_departamento, nombre) VALUES (1, 1, 'Zacapa');
+INSERT INTO municipios (id, id_departamento, nombre) VALUES (2, 1, 'Estanzuela');
+INSERT INTO municipios (id, id_departamento, nombre) VALUES (3, 1, 'Río Hondo');
+INSERT INTO municipios (id, id_departamento, nombre) VALUES (4, 1, 'Gualán');
+INSERT INTO municipios (id, id_departamento, nombre) VALUES (5, 1, 'Teculután');
+INSERT INTO municipios (id, id_departamento, nombre) VALUES (6, 1, 'Usumatlán');
+INSERT INTO municipios (id, id_departamento, nombre) VALUES (7, 1, 'Cabañas');
+INSERT INTO municipios (id, id_departamento, nombre) VALUES (8, 1, 'San Diego');
+INSERT INTO municipios (id, id_departamento, nombre) VALUES (9, 1, 'La Unión');
+INSERT INTO municipios (id, id_departamento, nombre) VALUES (10, 1, 'Huité');
