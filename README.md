@@ -165,11 +165,3 @@ automáticamente; en Windows cópielos a mano si compila manualmente).
   `build/classes/com/pnc/multas/util/` (o volver a correr
   `./compilar.sh`), ya que se lee como recurso del classpath, no desde
   la carpeta `src`.
-
-## 7. Pendiente según el enunciado (no incluido en este entregable)
-
-El enunciado también pide, como entrega aparte, un **PDF con capturas de
-pantalla del diseño de todas las pantallas** ("Diseño de pantallas"). Ese
-PDF es un entregable independiente del código; si lo necesita, puedo
-generarlo tomando capturas de las pantallas reales que ya están
-funcionando en este proyecto (dígame y lo preparo).
